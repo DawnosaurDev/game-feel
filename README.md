@@ -11,7 +11,7 @@ This is a drag & drop script that shakes your camera with a single function. It'
    Set this to Basic Multi Channel Perlin
 4. Finally, add the Camera Shaker script to an object in the scene
 
-That's everything! Call the 
+That's everything! Call the Basic or Smooth Shake function whenever you want some Camera Shake.
 
 ### 2) Sprite Color Changer
 A script to make a spite flash! Designed for hit flashes to show when a player or enemy takes damage.
